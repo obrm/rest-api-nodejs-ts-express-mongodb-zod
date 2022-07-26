@@ -1,6 +1,4 @@
 import mongoose from "mongoose";
-import bcrypt from "bcrypt";
-import config from "config";
 import { UserDocument } from "./user.model";
 
 export interface SessionDocument extends mongoose.Document {
