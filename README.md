@@ -1,4 +1,4 @@
-# REST API with Node.js, Mongoose & TypeScript
+# REST API with Node.js, MongoDB with Mongoose & TypeScript
 
 ## Concepts
 
