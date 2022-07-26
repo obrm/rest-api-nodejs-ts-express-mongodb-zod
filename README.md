@@ -35,6 +35,6 @@
   4.  Update product
   5.  Delete product
 
-Note: Make sure you add .env to your .gitignore before pushing any changes to your repository. You will also want to generate new public & private keys
+Note: Make sure you add .env to your .gitignore before pushing any changes to your repository. You will also want to generate new ACCESS_TOKEN_PUBLIC_KEY & ACCESS_TOKEN_PRIVATE_KEY keys and add them to your .env
 
 #### Generate new keys: https://travistidwell.com/jsencrypt/demo/
